@@ -15,3 +15,5 @@ Through this exercise, we will use different types of geospatial digital data to
 The exercise has been created in a way that can be completed without any previous knowledge of GIS. We will be using QGIS (the present document has been elaborated using the 3.12 version, note that some inconsistencies might arise due further updates. Contact your instructor if you encounter any problem).
 
 To do the exercise download the [zip file](optical_telegraph_files.zip) and follow the instructions from the tutorial [document](exercici_telegraf_tutorial.pdf).
+
+The exercise is an adaptation of a practical created for the sessions organised by the Computational and Digital Archaeology Laboratory ([CDAL](https://www.arch.cam.ac.uk/research/laboratories/cdal)) of the Department of Archaeology, Cambridge University, in the Peterhouse Archaeology Summer School (5-9/8/2019) and the Sutton Trust Summer School (22/8/2019). The materials were created by Enrico R. Crema, D.I. Redhouse, Arnau Garcia-Molsosa and Andreas Angourakis. This materials can be accessed on the following repository (https://github.com/Andros-Spica/CDAL-SummerSchool).
