@@ -12,4 +12,4 @@ Through this exercise, we will use different types of geospatial digital data to
 
 The exercise has been created in a way that can be completed without any previous knowledge of GIS. We will be using QGIS (the present document has been elaborated using the 3.12 version, note that some inconsistencies might arise due further updates. Contact your instructor if you encounter any problem).
 
-[](https://github.com/ArnauArqueo/training_giap/blob/main/e1_optical_telegraph/telegraph1.png)
+![](https://github.com/ArnauArqueo/training_giap/blob/main/e1_optical_telegraph/telegraph1.png)
