@@ -1,4 +1,4 @@
-#Exercise: The Optical Telegraph#
+# Exercise: The Optical Telegraph
 
 By Arnau Garcia Molsosa (agarcia@icac.cat). 
 
