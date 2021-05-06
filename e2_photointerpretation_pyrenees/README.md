@@ -4,11 +4,6 @@ By Arnau Garcia Molsosa (agarcia@icac.cat).
 
 This exercise has been created as a basic introduction to the use of aerial imagery, including on-line services, to remotely detect archaeological features. 
 
-For the development of the exercise we will cover some basic GIS functions:
-- Download aerial images and connect to on-line services.
-- Creation and edition of vectorial files.
-- Creation and edition of fieldwork maps.
-
 The exercise is based on a research developed in upper valleys of the Pyrenean mountains (modern Catalonia). Situated at 2000-2500 masl, they are dominated by pastures shaped through a long-term interactions of the herding practices with the environment. For more information on the research project in the area:
 
 > Palet, Josep M.; Garcia, Arnau; Orengo, Hèctor, Polonio, Tania (2017). «Els espais altimontans pirenaics orientals a l’Antiguitat: 10 anys d’estudis en arqueologia del paisatge del GIAP-ICAC». Treballs d’Arqeologia (núm. 21). <https://www.recercat.cat/handle/2072/307889>.
