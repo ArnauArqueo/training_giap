@@ -7,7 +7,6 @@ This exercise has been created as a basic introduction to the use of aerial imag
 For the development of the exercise we will cover some basic GIS functions:
 - Download aerial images and connect to on-line services.
 - Creation and edition of vectorial files.
-- Detection of human-made structures.
 - Creation and edition of fieldwork maps.
 
 The exercise is based on a research developed in upper valleys of the Pyrenean mountains (modern Catalonia). Situated at 2000-2500 masl, they are dominated by pastures shaped through a long-term interactions of the herding practices with the environment. For more information on the research project in the area:
