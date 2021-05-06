@@ -5,7 +5,7 @@ By Arnau Garcia Molsosa (agarcia@icac.cat).
 This exercise has been created as a basic introduction to the use of aerial imagery, including on-line services, to remotely detect archaeological features. 
 
 For the development of the exercise we will cover some basic GIS functions:
-- Download aerial imageries and connect to on-line services.
+- Download aerial images and connect to on-line services.
 - Creation and edition of vectorial files.
 - Detection of human-made structures.
 - Creation and edition of fieldwork maps.
@@ -18,4 +18,4 @@ The exercise is based on a research developed in upper valleys of the Pyrenean m
 
 The exercise has been created in a way that can be completed without any previous knowledge of GIS. We will be using QGIS (the present document has been elaborated using the 3.12 version, note that some inconsistencies might arise due further updates. Contact your instructor if you encounter any difficulty).
 
-To do the exercise download the [zip file](photointerpretation_pyrenees_files.zip) and follow the instructions from the tutorial [document](photointerpretation_pyrenees_tutorial.pdf). At the end of the exercise you can download the [zip file](photointerpretation_pyrenees_arqueorutes_files.zip) in order to the results. 
+To do the exercise download the [zip file](photointerpretation_pyrenees_files.zip) and follow the instructions from the tutorial [document](photointerpretation_pyrenees_tutorial.pdf). At the end of the exercise you can download the [zip file](photointerpretation_pyrenees_arqueorutes_files.zip) in order to check the results. 
