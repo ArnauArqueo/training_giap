@@ -1,2 +1,3 @@
 # Exercise: fieldwork data collection
-DSC_0132.JPG
+By Arnau Garcia Molsosa (agarcia@icac.cat). 
+![](DSC_0132.JPG)
