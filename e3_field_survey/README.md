@@ -1,1 +1,1 @@
-# Exercise: Surface survey data collection
+# Exercise: fieldwork data collection
