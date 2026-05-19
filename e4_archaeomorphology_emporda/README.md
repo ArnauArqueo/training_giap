@@ -5,4 +5,4 @@ This Exercise is designed as an introduction to the analysis of historical morph
  
 The exercise has been created in a way that can be completed without any previous knowledge of GIS. It is recommended, however, to be familiar with the basic QGIS functions addressed in [e1](https://github.com/ArnauArqueo/training_giap/tree/main/e1_optical_telegraph) and [e2](https://github.com/ArnauArqueo/training_giap/tree/main/e2_photointerpretation_pyrenees). We will be using QGIS (the present document has been elaborated using the 3.44 version, note that some inconsistencies might arise due further updates. Contact your instructor if you encounter any difficulty).
 
-To do the exercise download the zip file and follow the instructions from the tutorial document. 
+To do the exercise download the [zip file]  and follow the instructions from the [tutorial document] (e4_archaeomorphology_emporda/archaeomorphology_tutorial.pdf). 
